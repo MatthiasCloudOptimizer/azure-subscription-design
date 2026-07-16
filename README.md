@@ -8,14 +8,18 @@ Ziel ist nicht die maximale Trennung um jeden Preis, sondern eine pragmatische A
 
 Die dargestellten Empfehlungen orientieren sich am Microsoft Cloud Adoption Framework (CAF) sowie an Erfahrungen aus Enterprise-Projekten.
 
+![Azure Workload Subscription Reference Architecture](azure-workload-subscription-reference-architecture.png)
+
 ## Inhalt
 
 Dieses Repository beinhaltet:
 
-- Entscheidungsvorlage als Word-Dokument (.docx)
-- Entscheidungsvorlage als Markdown-Dokument (.md)
-- Referenzgrafik zur Subscription-Segmentierung
-- Beispiel für ein workload-orientiertes Azure Subscription Design
+- Referenzgrafik zum Azure Subscription Design
+- Entscheidungsvorlage für die Subscription-Segmentierung (.docx und .md)
+- Gegenüberstellung von monolithischen und workload-orientierten Zielbildern
+- Architekturprinzipien für Governance, Sicherheit, Betrieb und Netzwerksegmentierung
+- Praxisempfehlungen aus realen Enterprise
+
 
 ## Attribution
 
