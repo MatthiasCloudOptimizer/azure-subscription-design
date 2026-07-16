@@ -8,6 +8,15 @@ Ziel ist nicht die maximale Trennung um jeden Preis, sondern eine pragmatische A
 
 Die dargestellten Empfehlungen orientieren sich am Microsoft Cloud Adoption Framework (CAF) sowie an Erfahrungen aus Enterprise-Projekten.
 
+## Inhalt
+
+Dieses Repository beinhaltet:
+
+- Entscheidungsvorlage als Word-Dokument (.docx)
+- Entscheidungsvorlage als Markdown-Dokument (.md)
+- Referenzgrafik zur Subscription-Segmentierung
+- Beispiel für ein workload-orientiertes Azure Subscription Design
+
 ## Attribution
 
 Wenn diese Inhalte verwendet oder weiterentwickelt werden, freue ich mich über eine Nennung des ursprünglichen Repositorys oder eine Verlinkung auf dieses Projekt.
